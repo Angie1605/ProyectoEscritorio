@@ -194,7 +194,7 @@ Partial Class Form4
         '
         Me.TextBox1.BackColor = System.Drawing.SystemColors.Control
         Me.TextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.TextBox1.Location = New System.Drawing.Point(395, 164)
+        Me.TextBox1.Location = New System.Drawing.Point(396, 164)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 13)
         Me.TextBox1.TabIndex = 44
